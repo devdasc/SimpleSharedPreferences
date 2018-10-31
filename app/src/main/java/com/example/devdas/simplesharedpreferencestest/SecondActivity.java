@@ -1,4 +1,4 @@
-package com.example.inika.simplesharedpreferencestest;
+package com.example.devdas.simplesharedpreferencestest;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
